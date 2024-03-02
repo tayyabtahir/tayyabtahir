@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Firmware Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabtahir&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabtahir" /> </p>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*NlCFLqPGsHsj1xMVYE_1cA.gif">
 
 - 🔭 I’m currently working on **ESP32 Based Gateways and Sensors**
 
