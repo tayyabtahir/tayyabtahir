@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Alt text](https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s2048x3072/19014f3c9f92e88df65b9bf5f7adacb69380a88f.gifv "Intro")
+
 <h1 align="center">Hi 👋, I'm Tayyab</h1>
 <h3 align="center">A passionate Firmware Developer</h3>
 
