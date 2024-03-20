@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 -->
 
 
-![Alt text](https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s2048x3072/19014f3c9f92e88df65b9bf5f7adacb69380a88f.gifv "Intro")
+![Alt text](https://github.com/tayyabtahir/tayyabtahir/blob/main/Imgs/header_working_hard.gif)
+
 
 <h1 align="center">Hi 👋, I'm Tayyab</h1>
 <h3 align="center">A passionate Firmware Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabtahir&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabtahir" /> </p>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*NlCFLqPGsHsj1xMVYE_1cA.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/tayyabtahir/tayyabtahir/blob/main/Imgs/iot_env.gif">
 
 - 🔭 I’m currently working on **ESP32 Based Gateways and Sensors**
 
