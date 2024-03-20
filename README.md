@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Alt text](https://github.com/tayyabtahir/tayyabtahir/blob/main/Imgs/header_working_hard.gif)
+![Alt text](https://github.com/tayyabtahir/tayyabtahir/blob/main/Imgs/header_helloWorld.gif)
 
 
 <h1 align="center">Hi 👋, I'm Tayyab</h1>
